@@ -5,7 +5,7 @@
 
 Show multiple Kerberos.io surveillance camera streams next to each other in a browser. Each stream links to the separate Kerberos.io dashboard. Recent camera events show as a timestamp overlay ontop of each stream.
 
-[[https://github.com/dtbaker/kerberos-dashboard/blob/master/cameracreenshot.jpg|alt=screenshot]]
+![screenshot](https://raw.githubusercontent.com/dtbaker/kerberos-dashboard/master/cameracreenshot.jpg)
 
 #### Getting started
 
