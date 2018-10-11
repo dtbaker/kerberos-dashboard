@@ -1,0 +1,28 @@
+{
+  "servers": [
+    {
+      "name": "Cam 1",
+      "ip": "192.168.0.142",
+      "port": "81",
+      "streamport": "91",
+      "username": "dtbaker",
+      "password": "webcam1214"
+    },
+    {
+      "name": "Cam 2",
+      "ip": "192.168.0.142",
+      "port": "82",
+      "streamport": "92",
+      "username": "dtbaker",
+      "password": "webcam1214"
+    },
+    {
+      "name": "Cam 4",
+      "ip": "192.168.0.142",
+      "port": "84",
+      "streamport": "94",
+      "username": "dtbaker",
+      "password": "webcam1214"
+    }
+  ]
+}
